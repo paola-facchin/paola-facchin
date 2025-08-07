@@ -60,5 +60,5 @@ Aqui no GitHub você vai encontrar projetos onde aplico:
 ---
 
 <p align="center">
-  <em>Código com alma, design com propósito — por <strong>Paola Facchin</strong> • <em>#WomenWhoCode</em></em>
+  <em>Código com alma, design com propósito — por <strong>Paola Facchin</strong> • 
 </p>
